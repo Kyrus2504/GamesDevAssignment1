@@ -104,18 +104,62 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: PacSlashUpAnim.png (1)_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354e4e1c7051e5346a392ac80014e7ed
+      internalID: -2074052002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacSlashUpAnim.png (1)_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 3
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30e6b28f1125dd47a2f061da0cb8e56
+      internalID: -2018230886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 278b566671f690840bac84b9eb9dc6b2
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PacSlashUpAnim.png (1)_0: -2074052002
+      PacSlashUpAnim.png (1)_1: -2018230886
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 

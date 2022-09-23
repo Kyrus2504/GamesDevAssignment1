@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0440ef8b19384d04596bdd6181f89126
+guid: a26ae93b200f23e498c84a5daebaf69c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -104,18 +104,84 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: PowerPelletAnim_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d590991e6aa164895a0626500f6af2
+      internalID: 1114024194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerPelletAnim_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 13
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5f3078df431a14dbf2f8f95fe00a9f
+      internalID: -1042297684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerPelletAnim_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 12
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df039bf850da21949aa7903858f58847
+      internalID: -468961468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: a6799dbd8762ca24c87510d863672372
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PowerPelletAnim_2: -468961468
+      PowerPelletAnim_1: -1042297684
+      PowerPelletAnim_0: 1114024194
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 
